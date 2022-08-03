@@ -94,6 +94,8 @@ You might want users to be able to join a group call without an explicit invitat
 4. Other users join the call by using the group call ID.
 5. Users communicate with each other via voice and video in a call.
 
+## Text chat
+
 ## Microsoft 365 and Teams
 
 Many organizations use Microsoft 365 and Teams for communication. [Communication Services and Teams are interoperable,](/azure/communication-services/concepts/teams-interop) which enables these scenarios:
